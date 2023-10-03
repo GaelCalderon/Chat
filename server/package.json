@@ -1,0 +1,16 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "chat cliente servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "keywords": [
+    "chat",
+    "socket",
+    "node"
+  ],
+  "author": "Gael Calderon",
+  "license": "ISC"
+}
